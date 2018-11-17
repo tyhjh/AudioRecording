@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioRecording</string>
+    <string name="zeffect_recordbutton_finger_up_to_cancal_send">手指上滑，取消发送</string>
+</resources>
